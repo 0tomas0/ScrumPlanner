@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrumPlanner", "ScrumPlanner\ScrumPlanner.csproj", "{0FF6111C-3010-4776-9FAE-C4EE2E7BCA15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FF6111C-3010-4776-9FAE-C4EE2E7BCA15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FF6111C-3010-4776-9FAE-C4EE2E7BCA15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FF6111C-3010-4776-9FAE-C4EE2E7BCA15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FF6111C-3010-4776-9FAE-C4EE2E7BCA15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07E2E26A-63E8-49A7-B432-6872E5EB051A}
+	EndGlobalSection
+EndGlobal
